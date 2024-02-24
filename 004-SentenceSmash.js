@@ -8,6 +8,8 @@
 // Example :
 // ['hello', 'world', 'this', 'is', 'great']  =>  'hello world this is great'
 
+// Keywords : String, Array, Join, Fundamental
+
 /*
 function smash(words) {
   if (words.length == 0) {

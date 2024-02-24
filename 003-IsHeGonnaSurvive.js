@@ -7,6 +7,8 @@
 
 // Return true if yes, false otherwise :)
 
+// Keywords : Fundamental
+
 /*
 function hero(bullets, dragons) {
   if (bullets >= dragons * 2) return true;

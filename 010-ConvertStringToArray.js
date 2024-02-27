@@ -1,5 +1,5 @@
 // WPU Coding Challange day 10/366
-// www.codewars.com/kata/5672a98bdbdd995fad00000f
+// www.codewars.com/kata/57e76bc428d6fbc2d500036d
 // Keywords : Array, String, Fundamental
 
 // Write a function to split a string and convert it into an array of words.

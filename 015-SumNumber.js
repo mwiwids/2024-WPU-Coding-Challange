@@ -1,4 +1,4 @@
-// WPU Coding Challange day 14/366
+// WPU Coding Challange day 15/366
 // www.codewars.com/kata/576b93db1129fcf2200001e6
 // Keywords : Fundamental
 

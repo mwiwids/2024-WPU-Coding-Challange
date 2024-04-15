@@ -1,5 +1,5 @@
 // WPU Coding Challange day 34/366
-// www.codewars.www.codewars.com/kata/5b853229cfde412a470000d0
+// www.codewars.com/kata/5b853229cfde412a470000d0
 // Keywords : Fundamental, Mathematic
 
 // Your function takes two arguments:
